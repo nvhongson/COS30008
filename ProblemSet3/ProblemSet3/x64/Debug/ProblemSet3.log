@@ -1,0 +1,6 @@
+﻿  main.cpp
+  ifstream12.cpp
+C:\Users\Son\OneDrive - Swinburne University\Desktop\Coding Project\ProblemSet3\ifstream12.cpp(108,26): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  ofstream12.cpp
+  Generating Code...
+  ProblemSet3.vcxproj -> C:\Users\Son\OneDrive - Swinburne University\Desktop\Coding Project\ProblemSet3\x64\Debug\ProblemSet3.exe
